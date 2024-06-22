@@ -14,3 +14,12 @@ Example 2:
 
 >Input: c = 3</br>
 >Output: false
+
+My Solution Analysis:
+
+<div align = "center">
+
+  ![image](https://github.com/xo-azeem/Sum-of-Square-Numbers-LeetCode/assets/171427226/77486465-ad54-40f3-b1f1-2fe7e8583a05)
+
+  Time complexity: O(sqrt(c)).</br>Space complexity: O(1).
+</div>
